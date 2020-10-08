@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://jacquescarolan.github.io/jacq-car.github.io/sitemap.xml
+Sitemap: https://jacquescarolan.github.io/sitemap.xml

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Integrated Photonics | Jacques Carolan</title>
-    <link>https://jacquescarolan.github.io/jacq-car.github.io/tag/integrated-photonics/</link>
-      <atom:link href="https://jacquescarolan.github.io/jacq-car.github.io/tag/integrated-photonics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacquescarolan.github.io/tag/integrated-photonics/</link>
+      <atom:link href="https://jacquescarolan.github.io/tag/integrated-photonics/index.xml" rel="self" type="application/rss+xml" />
     <description>Integrated Photonics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jacquescarolan.github.io/jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jacquescarolan.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
       <title>Integrated Photonics</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/tag/integrated-photonics/</link>
+      <link>https://jacquescarolan.github.io/tag/integrated-photonics/</link>
     </image>
     
     <item>
       <title>Accelerating recurrent Ising machines in photonic integrated circuits</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/prabhu-2020-accelerating/</link>
+      <link>https://jacquescarolan.github.io/publication/prabhu-2020-accelerating/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/prabhu-2020-accelerating/</guid>
+      <guid>https://jacquescarolan.github.io/publication/prabhu-2020-accelerating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cryogenic operation of silicon photonic modulators based on DC Kerr effect</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/chakraborty-2020-cryogenic/</link>
+      <link>https://jacquescarolan.github.io/publication/chakraborty-2020-cryogenic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/chakraborty-2020-cryogenic/</guid>
+      <guid>https://jacquescarolan.github.io/publication/chakraborty-2020-cryogenic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable feedback control of single photon sources for photonic quantum technologies</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/carolan-2019-scalable/</link>
+      <link>https://jacquescarolan.github.io/publication/carolan-2019-scalable/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/carolan-2019-scalable/</guid>
+      <guid>https://jacquescarolan.github.io/publication/carolan-2019-scalable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linear programmable nanophotonic processors</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/harris-2018-linear/</link>
+      <link>https://jacquescarolan.github.io/publication/harris-2018-linear/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/harris-2018-linear/</guid>
+      <guid>https://jacquescarolan.github.io/publication/harris-2018-linear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Universal linear optics</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/carolan-2015-universal/</link>
+      <link>https://jacquescarolan.github.io/publication/carolan-2015-universal/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/carolan-2015-universal/</guid>
+      <guid>https://jacquescarolan.github.io/publication/carolan-2015-universal/</guid>
       <description></description>
     </item>
     

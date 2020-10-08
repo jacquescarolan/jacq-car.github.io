@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Jacques Carolan</title>
-    <link>https://jacquescarolan.github.io/jacq-car.github.io/project/</link>
-      <atom:link href="https://jacquescarolan.github.io/jacq-car.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacquescarolan.github.io/project/</link>
+      <atom:link href="https://jacquescarolan.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2020</copyright><lastBuildDate>Tue, 29 Sep 2020 17:55:06 +0200</lastBuildDate>
     <image>
-      <url>https://jacquescarolan.github.io/jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jacquescarolan.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/project/</link>
+      <link>https://jacquescarolan.github.io/project/</link>
     </image>
     
     <item>
       <title>Programmable Photonics</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/project/photonics/</link>
+      <link>https://jacquescarolan.github.io/project/photonics/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/project/photonics/</guid>
+      <guid>https://jacquescarolan.github.io/project/photonics/</guid>
       <description>&lt;p&gt;I develop large-scale photonic integrated circuits that can be reprogrammed to implement a host of optical transformations, all on a single device.  Such universal &lt;em&gt;programable photonics&lt;/em&gt; may enable breakthroughs in quantum computing, artificial intelligence, imaging and signals processing.&lt;/p&gt;
 &lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;
 
@@ -40,7 +40,7 @@
   &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;C. Harrold&lt;/span&gt;, &lt;span &gt;C. Sparrow&lt;/span&gt;, &lt;span &gt;E. Martı́n-López&lt;/span&gt;, &lt;span &gt;N. J. Russell&lt;/span&gt;, &lt;span &gt;J. W. Silverstone&lt;/span&gt;, &lt;span &gt;P. J. Shadbolt&lt;/span&gt;, &lt;span &gt;N. Matsuda&lt;/span&gt;, &lt;span &gt;M. Oguma&lt;/span&gt;, &lt;span &gt;M. Itoh&lt;/span&gt;, &lt;span &gt;G. D. Marshall&lt;/span&gt;, &lt;span &gt;M. G. Thompson&lt;/span&gt;, &lt;span &gt;J. C. F. Matthews&lt;/span&gt;, &lt;span &gt;T. Hashimoto&lt;/span&gt;, &lt;span &gt;J. L. O’Brien&lt;/span&gt;, &lt;span &gt;A. Laing&lt;/span&gt;
   &lt;/span&gt;
   (2015).
-  &lt;a href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/carolan-2015-universal/&#34;&gt;Universal linear optics&lt;/a&gt;.
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/carolan-2015-universal/&#34;&gt;Universal linear optics&lt;/a&gt;.
   &lt;em&gt;Science&lt;/em&gt; &lt;strong&gt;349&lt;/strong&gt;, 711 (2015).
   
   &lt;p&gt;
@@ -56,14 +56,14 @@
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/carolan-2015-universal/carolan-2015-universal.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/publication/carolan-2015-universal/carolan-2015-universal.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
-        data-filename=&#34;/jacq-car.github.io/publication/carolan-2015-universal/cite.bib&#34;&gt;
+        data-filename=&#34;/publication/carolan-2015-universal/cite.bib&#34;&gt;
   Cite
 &lt;/button&gt;
 
@@ -140,7 +140,7 @@
   &lt;span &gt;U. Chakraborty&lt;/span&gt;, &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;G. Clark&lt;/span&gt;, &lt;span &gt;D. Bunandar&lt;/span&gt;, &lt;span &gt;J. Notaros&lt;/span&gt;, &lt;span &gt;M. R. Watts&lt;/span&gt;, &lt;span &gt;D. R. Englund&lt;/span&gt;
   &lt;/span&gt;
   (2020).
-  &lt;a href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/chakraborty-2020-cryogenic/&#34;&gt;Cryogenic operation of silicon photonic modulators based on DC Kerr effect&lt;/a&gt;.
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/chakraborty-2020-cryogenic/&#34;&gt;Cryogenic operation of silicon photonic modulators based on DC Kerr effect&lt;/a&gt;.
   &lt;em&gt;arXiv preprint arXiv:2007.03395&lt;/em&gt; (2020).
   
   &lt;p&gt;
@@ -156,14 +156,14 @@
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/chakraborty-2020-cryogenic/chakraborty-2020-cryogenic.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/publication/chakraborty-2020-cryogenic/chakraborty-2020-cryogenic.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
-        data-filename=&#34;/jacq-car.github.io/publication/chakraborty-2020-cryogenic/cite.bib&#34;&gt;
+        data-filename=&#34;/publication/chakraborty-2020-cryogenic/cite.bib&#34;&gt;
   Cite
 &lt;/button&gt;
 
@@ -225,7 +225,7 @@
   &lt;span &gt;N. C. Harris&lt;/span&gt;, &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;D. Bunandar&lt;/span&gt;, &lt;span &gt;M. Prabhu&lt;/span&gt;, &lt;span &gt;M. Hochberg&lt;/span&gt;, &lt;span &gt;T. Baehr-Jones&lt;/span&gt;, &lt;span &gt;M. L. Fanto&lt;/span&gt;, &lt;span &gt;A. M. Smith&lt;/span&gt;, &lt;span &gt;C. C. Tison&lt;/span&gt;, &lt;span &gt;P. M. Alsing&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;
   &lt;/span&gt;
   (2018).
-  &lt;a href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/harris-2018-linear/&#34;&gt;Linear programmable nanophotonic processors&lt;/a&gt;.
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/harris-2018-linear/&#34;&gt;Linear programmable nanophotonic processors&lt;/a&gt;.
   &lt;em&gt;Optica&lt;/em&gt; &lt;strong&gt;5&lt;/strong&gt;, 1623 (2018).
   
   &lt;p&gt;
@@ -241,14 +241,14 @@
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/harris-2018-linear/harris-2018-linear.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/publication/harris-2018-linear/harris-2018-linear.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
-        data-filename=&#34;/jacq-car.github.io/publication/harris-2018-linear/cite.bib&#34;&gt;
+        data-filename=&#34;/publication/harris-2018-linear/cite.bib&#34;&gt;
   Cite
 &lt;/button&gt;
 
@@ -311,7 +311,7 @@
   &lt;span &gt;J. Kim&lt;/span&gt;, &lt;span &gt;S. Aghaeimeibodi&lt;/span&gt;, &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;, &lt;span &gt;E. Waks&lt;/span&gt;
   &lt;/span&gt;
   (2020).
-  &lt;a href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/kim-2020-hybrid/&#34;&gt;Hybrid integration methods for on-chip quantum photonics&lt;/a&gt;.
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/kim-2020-hybrid/&#34;&gt;Hybrid integration methods for on-chip quantum photonics&lt;/a&gt;.
   &lt;em&gt;Optica&lt;/em&gt; &lt;strong&gt;7&lt;/strong&gt;, 291 (2020).
   
   &lt;p&gt;
@@ -327,14 +327,14 @@
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/kim-2020-hybrid/kim-2020-hybrid.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/publication/kim-2020-hybrid/kim-2020-hybrid.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
-        data-filename=&#34;/jacq-car.github.io/publication/kim-2020-hybrid/cite.bib&#34;&gt;
+        data-filename=&#34;/publication/kim-2020-hybrid/cite.bib&#34;&gt;
   Cite
 &lt;/button&gt;
 
@@ -395,9 +395,9 @@
     
     <item>
       <title>Quantum for AI &amp; AI for Quantum</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/project/quantum-ai/</link>
+      <link>https://jacquescarolan.github.io/project/quantum-ai/</link>
       <pubDate>Mon, 28 Sep 2020 14:08:42 +0200</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/project/quantum-ai/</guid>
+      <guid>https://jacquescarolan.github.io/project/quantum-ai/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m fascinated by the intersection of machine learning and quantum mechanics; both in terms of how we can use quantum processors to accelerate machine learning and how we can leverage techniques from machine learning to help control and verify large-scale quantum systems.&lt;/p&gt;
 &lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;
 
@@ -421,7 +421,7 @@
   &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;M. Mohseni&lt;/span&gt;, &lt;span &gt;J. P. Olson&lt;/span&gt;, &lt;span &gt;M. Prabhu&lt;/span&gt;, &lt;span &gt;C. Chen&lt;/span&gt;, &lt;span &gt;D. Bunandar&lt;/span&gt;, &lt;span &gt;M. Y. Niu&lt;/span&gt;, &lt;span &gt;N. C. Harris&lt;/span&gt;, &lt;span &gt;F. N. C. Wong&lt;/span&gt;, &lt;span &gt;M. Hochberg&lt;/span&gt;, &lt;span &gt;S. Lloyd&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;
   &lt;/span&gt;
   (2020).
-  &lt;a href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/carolan-2020-variational/&#34;&gt;Variational quantum unsampling on a quantum photonic processor&lt;/a&gt;.
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/carolan-2020-variational/&#34;&gt;Variational quantum unsampling on a quantum photonic processor&lt;/a&gt;.
   &lt;em&gt;Nature Physics&lt;/em&gt; &lt;strong&gt;16&lt;/strong&gt;, 322 (2020).
   
   &lt;p&gt;
@@ -437,14 +437,14 @@
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/carolan-2020-variational/carolan-2020-variational.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/publication/carolan-2020-variational/carolan-2020-variational.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
-        data-filename=&#34;/jacq-car.github.io/publication/carolan-2020-variational/cite.bib&#34;&gt;
+        data-filename=&#34;/publication/carolan-2020-variational/cite.bib&#34;&gt;
   Cite
 &lt;/button&gt;
 
@@ -521,7 +521,7 @@
   &lt;span &gt;G. R. Steinbrecher&lt;/span&gt;, &lt;span &gt;J. P Olson&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;, &lt;span &gt;J. Carolan&lt;/span&gt;
   &lt;/span&gt;
   (2019).
-  &lt;a href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/steinbrecher-2019-quantum/&#34;&gt;Quantum optical neural networks&lt;/a&gt;.
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/steinbrecher-2019-quantum/&#34;&gt;Quantum optical neural networks&lt;/a&gt;.
   &lt;em&gt;npj Quantum Information&lt;/em&gt; &lt;strong&gt;5&lt;/strong&gt;, 60 (2019).
   
   &lt;p&gt;
@@ -537,14 +537,14 @@
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/steinbrecher-2019-quantum/steinbrecher-2019-quantum.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/publication/steinbrecher-2019-quantum/steinbrecher-2019-quantum.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
-        data-filename=&#34;/jacq-car.github.io/publication/steinbrecher-2019-quantum/cite.bib&#34;&gt;
+        data-filename=&#34;/publication/steinbrecher-2019-quantum/cite.bib&#34;&gt;
   Cite
 &lt;/button&gt;
 
@@ -621,7 +621,7 @@
   &lt;span &gt;M. Prabhu&lt;/span&gt;, &lt;span &gt;C. Roques-Carmes&lt;/span&gt;, &lt;span &gt;Y. Shen&lt;/span&gt;, &lt;span &gt;N. Harris&lt;/span&gt;, &lt;span &gt;L. Jing&lt;/span&gt;, &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;R. Hamerly&lt;/span&gt;, &lt;span &gt;T. Baehr-Jones&lt;/span&gt;, &lt;span &gt;M. Hochberg&lt;/span&gt;, &lt;span &gt;V. Čeperić&lt;/span&gt;, &lt;span &gt;J. D. Joannopoulos&lt;/span&gt;, &lt;span &gt;D. R. Englund&lt;/span&gt;, &lt;span &gt;M. Soljačić&lt;/span&gt;
   &lt;/span&gt;
   (2020).
-  &lt;a href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/prabhu-2020-accelerating/&#34;&gt;Accelerating recurrent Ising machines in photonic integrated circuits&lt;/a&gt;.
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/prabhu-2020-accelerating/&#34;&gt;Accelerating recurrent Ising machines in photonic integrated circuits&lt;/a&gt;.
   &lt;em&gt;Optica&lt;/em&gt; &lt;strong&gt;7&lt;/strong&gt;, 551 (2020).
   
   &lt;p&gt;
@@ -637,14 +637,14 @@
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/prabhu-2020-accelerating/prabhu-2020-accelerating.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/publication/prabhu-2020-accelerating/prabhu-2020-accelerating.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
-        data-filename=&#34;/jacq-car.github.io/publication/prabhu-2020-accelerating/cite.bib&#34;&gt;
+        data-filename=&#34;/publication/prabhu-2020-accelerating/cite.bib&#34;&gt;
   Cite
 &lt;/button&gt;
 
@@ -705,9 +705,9 @@
     
     <item>
       <title>Quantum Photonics</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/project/quantum-optics/</link>
+      <link>https://jacquescarolan.github.io/project/quantum-optics/</link>
       <pubDate>Tue, 29 Sep 2020 17:55:06 +0200</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/project/quantum-optics/</guid>
+      <guid>https://jacquescarolan.github.io/project/quantum-optics/</guid>
       <description>&lt;p&gt;Scalable methods to generate, manipulate and detect quantum states of light on chip may enable a new paradigm for computing.  I build such quantum technologies in a variety of material platforms, alongside developing a new suite of algorithms for machine learning, chemistry and secure communication.&lt;/p&gt;
 &lt;!--
 I have developing technologies through a variety of platforms:
@@ -738,7 +738,7 @@ Storing information on to the quantum states of light and processing that inform
   &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;U. Chakraborty&lt;/span&gt;, &lt;span &gt;N. C. Harris&lt;/span&gt;, &lt;span &gt;M. Pant&lt;/span&gt;, &lt;span &gt;T. Baehr-Jones&lt;/span&gt;, &lt;span &gt;M. Hochberg&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;
   &lt;/span&gt;
   (2019).
-  &lt;a href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/carolan-2019-scalable/&#34;&gt;Scalable feedback control of single photon sources for photonic quantum technologies&lt;/a&gt;.
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/carolan-2019-scalable/&#34;&gt;Scalable feedback control of single photon sources for photonic quantum technologies&lt;/a&gt;.
   &lt;em&gt;Optica&lt;/em&gt; &lt;strong&gt;6&lt;/strong&gt;, 335 (2019).
   
   &lt;p&gt;
@@ -754,14 +754,14 @@ Storing information on to the quantum states of light and processing that inform
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/carolan-2019-scalable/carolan-2019-scalable.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/publication/carolan-2019-scalable/carolan-2019-scalable.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
-        data-filename=&#34;/jacq-car.github.io/publication/carolan-2019-scalable/cite.bib&#34;&gt;
+        data-filename=&#34;/publication/carolan-2019-scalable/cite.bib&#34;&gt;
   Cite
 &lt;/button&gt;
 
@@ -838,7 +838,7 @@ Storing information on to the quantum states of light and processing that inform
   &lt;span &gt;C. Sparrow&lt;/span&gt;, &lt;span &gt;E. Martı́n-López&lt;/span&gt;, &lt;span &gt;N. Maraviglia&lt;/span&gt;, &lt;span &gt;A. Neville&lt;/span&gt;, &lt;span &gt;C. Harrold&lt;/span&gt;, &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;Y. N Joglekar&lt;/span&gt;, &lt;span &gt;T. Hashimoto&lt;/span&gt;, &lt;span &gt;N. Matsuda&lt;/span&gt;, &lt;span &gt;J. L. O’Brien&lt;/span&gt;, &lt;span &gt;D. Tew&lt;/span&gt;, &lt;span &gt;A. Laing&lt;/span&gt;
   &lt;/span&gt;
   (2018).
-  &lt;a href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/sparrow-2018-simulating/&#34;&gt;Simulating the vibrational quantum dynamics of molecules using photonics&lt;/a&gt;.
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/sparrow-2018-simulating/&#34;&gt;Simulating the vibrational quantum dynamics of molecules using photonics&lt;/a&gt;.
   &lt;em&gt;Nature&lt;/em&gt; &lt;strong&gt;557&lt;/strong&gt;, 660 (2018).
   
   &lt;p&gt;
@@ -854,14 +854,14 @@ Storing information on to the quantum states of light and processing that inform
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/sparrow-2018-simulating/sparrow-2018-simulating.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/publication/sparrow-2018-simulating/sparrow-2018-simulating.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
-        data-filename=&#34;/jacq-car.github.io/publication/sparrow-2018-simulating/cite.bib&#34;&gt;
+        data-filename=&#34;/publication/sparrow-2018-simulating/cite.bib&#34;&gt;
   Cite
 &lt;/button&gt;
 
@@ -924,7 +924,7 @@ Storing information on to the quantum states of light and processing that inform
   &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;J. D. A. Meinecke&lt;/span&gt;, &lt;span &gt;P. J. Shadbolt&lt;/span&gt;, &lt;span &gt;N. J. Russell&lt;/span&gt;, &lt;span &gt;N. Ismail&lt;/span&gt;, &lt;span &gt;K. Wörhoff&lt;/span&gt;, &lt;span &gt;T. Rudolph&lt;/span&gt;, &lt;span &gt;M. G Thompson&lt;/span&gt;, &lt;span &gt;J. L. O&amp;#39;Brien&lt;/span&gt;, &lt;span &gt;J. C. F. Matthews&lt;/span&gt;, &lt;span &gt;A. Laing&lt;/span&gt;
   &lt;/span&gt;
   (2014).
-  &lt;a href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/carolan-2014-experimental/&#34;&gt;On the experimental verification of quantum complexity in linear optics&lt;/a&gt;.
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/carolan-2014-experimental/&#34;&gt;On the experimental verification of quantum complexity in linear optics&lt;/a&gt;.
   &lt;em&gt;Nature Photonics&lt;/em&gt; &lt;strong&gt;8&lt;/strong&gt;, 621 (2014).
   
   &lt;p&gt;
@@ -940,14 +940,14 @@ Storing information on to the quantum states of light and processing that inform
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/jacq-car.github.io/jacq-car.github.io/publication/carolan-2014-experimental/carolan-2014-experimental.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/publication/carolan-2014-experimental/carolan-2014-experimental.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
 &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
-        data-filename=&#34;/jacq-car.github.io/publication/carolan-2014-experimental/cite.bib&#34;&gt;
+        data-filename=&#34;/publication/carolan-2014-experimental/cite.bib&#34;&gt;
   Cite
 &lt;/button&gt;
 

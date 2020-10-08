@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presses | Jacques Carolan</title>
-    <link>https://jacquescarolan.github.io/jacq-car.github.io/press/</link>
-      <atom:link href="https://jacquescarolan.github.io/jacq-car.github.io/press/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacquescarolan.github.io/press/</link>
+      <atom:link href="https://jacquescarolan.github.io/press/index.xml" rel="self" type="application/rss+xml" />
     <description>Presses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2020</copyright><lastBuildDate>Mon, 28 Sep 2020 13:58:45 +0200</lastBuildDate>
     <image>
-      <url>https://jacquescarolan.github.io/jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jacquescarolan.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
       <title>Presses</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/press/</link>
+      <link>https://jacquescarolan.github.io/press/</link>
     </image>
     
     <item>
       <title>How to verify that quantum chips are computing correctly</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/press/vqu_mit/</link>
+      <link>https://jacquescarolan.github.io/press/vqu_mit/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/press/vqu_mit/</guid>
+      <guid>https://jacquescarolan.github.io/press/vqu_mit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational Unsampling</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/press/vqu_nat_rev_phys/</link>
+      <link>https://jacquescarolan.github.io/press/vqu_nat_rev_phys/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/press/vqu_nat_rev_phys/</guid>
+      <guid>https://jacquescarolan.github.io/press/vqu_nat_rev_phys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>​One Small Optical Chip, One Giant Leap for Quantum Computing</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/press/ulo_vice/</link>
+      <link>https://jacquescarolan.github.io/press/ulo_vice/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/press/ulo_vice/</guid>
+      <guid>https://jacquescarolan.github.io/press/ulo_vice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantum processing scales up and bursts out from theory to reality</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/press/mc_cordis/</link>
+      <link>https://jacquescarolan.github.io/press/mc_cordis/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/press/mc_cordis/</guid>
+      <guid>https://jacquescarolan.github.io/press/mc_cordis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>​Integrated solution for quantum technologies</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/press/nat_photon/</link>
+      <link>https://jacquescarolan.github.io/press/nat_photon/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/press/nat_photon/</guid>
+      <guid>https://jacquescarolan.github.io/press/nat_photon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Best of the Physics arXiv </title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/press/qonn_mit_tech_review/</link>
+      <link>https://jacquescarolan.github.io/press/qonn_mit_tech_review/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/press/qonn_mit_tech_review/</guid>
+      <guid>https://jacquescarolan.github.io/press/qonn_mit_tech_review/</guid>
       <description></description>
     </item>
     

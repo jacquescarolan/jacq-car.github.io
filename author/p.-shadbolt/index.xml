@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P. Shadbolt | Jacques Carolan</title>
-    <link>https://jacquescarolan.github.io/jacq-car.github.io/author/p.-shadbolt/</link>
-      <atom:link href="https://jacquescarolan.github.io/jacq-car.github.io/author/p.-shadbolt/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacquescarolan.github.io/author/p.-shadbolt/</link>
+      <atom:link href="https://jacquescarolan.github.io/author/p.-shadbolt/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Shadbolt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jacquescarolan.github.io/jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jacquescarolan.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
       <title>P. Shadbolt</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/author/p.-shadbolt/</link>
+      <link>https://jacquescarolan.github.io/author/p.-shadbolt/</link>
     </image>
     
     <item>
       <title>Relative multiplexing for minimising switching in linear-optical quantum computing</title>
-      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/gimeno-2017-relative/</link>
+      <link>https://jacquescarolan.github.io/publication/gimeno-2017-relative/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/gimeno-2017-relative/</guid>
+      <guid>https://jacquescarolan.github.io/publication/gimeno-2017-relative/</guid>
       <description></description>
     </item>
     
