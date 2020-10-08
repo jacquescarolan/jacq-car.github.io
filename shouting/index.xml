@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shoutings | Jacques Carolan</title>
+    <link>https://jacq-car.github.io/shouting/</link>
+      <atom:link href="https://jacq-car.github.io/shouting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shoutings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2020</copyright><lastBuildDate>Mon, 28 Sep 2020 13:58:45 +0200</lastBuildDate>
+    <image>
+      <url>https://jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
+      <title>Shoutings</title>
+      <link>https://jacq-car.github.io/shouting/</link>
+    </image>
+    
+    <item>
+      <title>Comedy</title>
+      <link>https://jacq-car.github.io/shouting/comedy/</link>
+      <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
+      <guid>https://jacq-car.github.io/shouting/comedy/</guid>
+      <description>&lt;p&gt;Having trained at 
+&lt;a href=&#34;https://improvboston.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Improv Boston&lt;/a&gt;, I&amp;rsquo;ve performed in a number of teams, including 
+&lt;a href=&#34;https://www.facebook.com/phoenixkillbot/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phoenix Killbot&lt;/a&gt; at IB&amp;rsquo;s 
+&lt;a href=&#34;https://improvboston.com/indie-exposure/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indie Exposure&lt;/a&gt;, 
+&lt;a href=&#34;https://www.facebook.com/HotButteredToads/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hot Buttered Toads&lt;/a&gt; and 
+&lt;a href=&#34;http://www.improvhistory.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Improvised History&lt;/a&gt;.  In addition, I&amp;rsquo;ve performed standup comedy across the south coast of the UK including 
+&lt;a href=&#34;https://scienceshowoff.wordpress.com/bright-club/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bright Club&lt;/a&gt; at the Bloomsbury Theatre.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Confessions of a Clumsy Scientist</title>
+      <link>https://jacq-car.github.io/shouting/coacs/</link>
+      <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
+      <guid>https://jacq-car.github.io/shouting/coacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FameLab</title>
+      <link>https://jacq-car.github.io/shouting/fame_lab/</link>
+      <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
+      <guid>https://jacq-car.github.io/shouting/fame_lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sir Antony Gormley</title>
+      <link>https://jacq-car.github.io/shouting/gormley/</link>
+      <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
+      <guid>https://jacq-car.github.io/shouting/gormley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tom Scott</title>
+      <link>https://jacq-car.github.io/shouting/tom_scott/</link>
+      <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
+      <guid>https://jacq-car.github.io/shouting/tom_scott/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Hochberg | Jacques Carolan</title>
+    <link>https://jacq-car.github.io/author/m.-hochberg/</link>
+      <atom:link href="https://jacq-car.github.io/author/m.-hochberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Hochberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Hochberg</title>
+      <link>https://jacq-car.github.io/author/m.-hochberg/</link>
+    </image>
+    
+    <item>
+      <title>Accelerating recurrent Ising machines in photonic integrated circuits</title>
+      <link>https://jacq-car.github.io/publication/prabhu-2020-accelerating/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jacq-car.github.io/publication/prabhu-2020-accelerating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational quantum unsampling on a quantum photonic processor</title>
+      <link>https://jacq-car.github.io/publication/carolan-2020-variational/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jacq-car.github.io/publication/carolan-2020-variational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable feedback control of single photon sources for photonic quantum technologies</title>
+      <link>https://jacq-car.github.io/publication/carolan-2019-scalable/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jacq-car.github.io/publication/carolan-2019-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trace-free counterfactual communication with a nanophotonic processor</title>
+      <link>https://jacq-car.github.io/publication/calafell-2019-trace/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jacq-car.github.io/publication/calafell-2019-trace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear programmable nanophotonic processors</title>
+      <link>https://jacq-car.github.io/publication/harris-2018-linear/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jacq-car.github.io/publication/harris-2018-linear/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. J. Carolan | Jacques Carolan</title>
+    <link>https://jacq-car.github.io/author/j.-j.-carolan/</link>
+      <atom:link href="https://jacq-car.github.io/author/j.-j.-carolan/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. J. Carolan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2020</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
+      <title>J. J. Carolan</title>
+      <link>https://jacq-car.github.io/author/j.-j.-carolan/</link>
+    </image>
+    
+    <item>
+      <title>Apparatus and methods for optical neural network</title>
+      <link>https://jacq-car.github.io/publication/harris-2019-apparatus/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jacq-car.github.io/publication/harris-2019-apparatus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

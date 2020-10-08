@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>U. Chakraborty | Jacques Carolan</title>
+    <link>https://jacq-car.github.io/author/u.-chakraborty/</link>
+      <atom:link href="https://jacq-car.github.io/author/u.-chakraborty/index.xml" rel="self" type="application/rss+xml" />
+    <description>U. Chakraborty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
+      <title>U. Chakraborty</title>
+      <link>https://jacq-car.github.io/author/u.-chakraborty/</link>
+    </image>
+    
+    <item>
+      <title>Scalable Feedback Control of Single-Photon Sources for Photonic Quantum Technologies</title>
+      <link>https://jacq-car.github.io/publication/carolan-2020-scalable/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jacq-car.github.io/publication/carolan-2020-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryogenic operation of silicon photonic modulators based on DC Kerr effect</title>
+      <link>https://jacq-car.github.io/publication/chakraborty-2020-cryogenic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jacq-car.github.io/publication/chakraborty-2020-cryogenic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable feedback control of single photon sources for photonic quantum technologies</title>
+      <link>https://jacq-car.github.io/publication/carolan-2019-scalable/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jacq-car.github.io/publication/carolan-2019-scalable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

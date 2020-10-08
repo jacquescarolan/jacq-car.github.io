@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Gimeno-Segovia | Jacques Carolan</title>
+    <link>https://jacq-car.github.io/author/m.-gimeno-segovia/</link>
+      <atom:link href="https://jacq-car.github.io/author/m.-gimeno-segovia/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Gimeno-Segovia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Gimeno-Segovia</title>
+      <link>https://jacq-car.github.io/author/m.-gimeno-segovia/</link>
+    </image>
+    
+    <item>
+      <title>Relative multiplexing for minimising switching in linear-optical quantum computing</title>
+      <link>https://jacq-car.github.io/publication/gimeno-2017-relative/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jacq-car.github.io/publication/gimeno-2017-relative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
