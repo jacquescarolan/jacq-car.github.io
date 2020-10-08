@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shoutings | Jacques Carolan</title>
-    <link>https://jacq-car.github.io/shouting/</link>
-      <atom:link href="https://jacq-car.github.io/shouting/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacquescarolan.github.io/jacq-car.github.io/shouting/</link>
+      <atom:link href="https://jacquescarolan.github.io/jacq-car.github.io/shouting/index.xml" rel="self" type="application/rss+xml" />
     <description>Shoutings</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2020</copyright><lastBuildDate>Mon, 28 Sep 2020 13:58:45 +0200</lastBuildDate>
     <image>
-      <url>https://jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jacquescarolan.github.io/jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
       <title>Shoutings</title>
-      <link>https://jacq-car.github.io/shouting/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/shouting/</link>
     </image>
     
     <item>
       <title>Comedy</title>
-      <link>https://jacq-car.github.io/shouting/comedy/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/shouting/comedy/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
-      <guid>https://jacq-car.github.io/shouting/comedy/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/shouting/comedy/</guid>
       <description>&lt;p&gt;Having trained at 
 &lt;a href=&#34;https://improvboston.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Improv Boston&lt;/a&gt;, I&amp;rsquo;ve performed in a number of teams, including 
 &lt;a href=&#34;https://www.facebook.com/phoenixkillbot/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phoenix Killbot&lt;/a&gt; at IB&amp;rsquo;s 
@@ -29,33 +29,33 @@
     
     <item>
       <title>Confessions of a Clumsy Scientist</title>
-      <link>https://jacq-car.github.io/shouting/coacs/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/shouting/coacs/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
-      <guid>https://jacq-car.github.io/shouting/coacs/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/shouting/coacs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FameLab</title>
-      <link>https://jacq-car.github.io/shouting/fame_lab/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/shouting/fame_lab/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
-      <guid>https://jacq-car.github.io/shouting/fame_lab/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/shouting/fame_lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sir Antony Gormley</title>
-      <link>https://jacq-car.github.io/shouting/gormley/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/shouting/gormley/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
-      <guid>https://jacq-car.github.io/shouting/gormley/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/shouting/gormley/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tom Scott</title>
-      <link>https://jacq-car.github.io/shouting/tom_scott/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/shouting/tom_scott/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
-      <guid>https://jacq-car.github.io/shouting/tom_scott/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/shouting/tom_scott/</guid>
       <description></description>
     </item>
     

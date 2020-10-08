@@ -5,14 +5,14 @@
   "theme_color": "#202d85",
   "background_color": "#202d85",
   "icons": [{
-    "src": "/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_192x192_fill_lanczos_center_2.png",
+    "src": "/jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png",
+    "src": "/jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/?utm_source=web_app_manifest"
+  "start_url": "/jacq-car.github.io/?utm_source=web_app_manifest"
 }

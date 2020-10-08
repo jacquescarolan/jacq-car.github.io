@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum Photonics | Jacques Carolan</title>
-    <link>https://jacq-car.github.io/tag/quantum-photonics/</link>
-      <atom:link href="https://jacq-car.github.io/tag/quantum-photonics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacquescarolan.github.io/jacq-car.github.io/tag/quantum-photonics/</link>
+      <atom:link href="https://jacquescarolan.github.io/jacq-car.github.io/tag/quantum-photonics/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Photonics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jacquescarolan.github.io/jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
       <title>Quantum Photonics</title>
-      <link>https://jacq-car.github.io/tag/quantum-photonics/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/tag/quantum-photonics/</link>
     </image>
     
     <item>
       <title>Hybrid integration methods for on-chip quantum photonics</title>
-      <link>https://jacq-car.github.io/publication/kim-2020-hybrid/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/kim-2020-hybrid/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jacq-car.github.io/publication/kim-2020-hybrid/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/kim-2020-hybrid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational quantum unsampling on a quantum photonic processor</title>
-      <link>https://jacq-car.github.io/publication/carolan-2020-variational/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/carolan-2020-variational/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jacq-car.github.io/publication/carolan-2020-variational/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/carolan-2020-variational/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantum optical neural networks</title>
-      <link>https://jacq-car.github.io/publication/steinbrecher-2019-quantum/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/steinbrecher-2019-quantum/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jacq-car.github.io/publication/steinbrecher-2019-quantum/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/steinbrecher-2019-quantum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable feedback control of single photon sources for photonic quantum technologies</title>
-      <link>https://jacq-car.github.io/publication/carolan-2019-scalable/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/carolan-2019-scalable/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jacq-car.github.io/publication/carolan-2019-scalable/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/carolan-2019-scalable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trace-free counterfactual communication with a nanophotonic processor</title>
-      <link>https://jacq-car.github.io/publication/calafell-2019-trace/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/calafell-2019-trace/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jacq-car.github.io/publication/calafell-2019-trace/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/calafell-2019-trace/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linear programmable nanophotonic processors</title>
-      <link>https://jacq-car.github.io/publication/harris-2018-linear/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/harris-2018-linear/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jacq-car.github.io/publication/harris-2018-linear/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/harris-2018-linear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulating the vibrational quantum dynamics of molecules using photonics</title>
-      <link>https://jacq-car.github.io/publication/sparrow-2018-simulating/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/sparrow-2018-simulating/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jacq-car.github.io/publication/sparrow-2018-simulating/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/sparrow-2018-simulating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relative multiplexing for minimising switching in linear-optical quantum computing</title>
-      <link>https://jacq-car.github.io/publication/gimeno-2017-relative/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/gimeno-2017-relative/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jacq-car.github.io/publication/gimeno-2017-relative/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/gimeno-2017-relative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Universal linear optics</title>
-      <link>https://jacq-car.github.io/publication/carolan-2015-universal/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/carolan-2015-universal/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://jacq-car.github.io/publication/carolan-2015-universal/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/carolan-2015-universal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the experimental verification of quantum complexity in linear optics</title>
-      <link>https://jacq-car.github.io/publication/carolan-2014-experimental/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/publication/carolan-2014-experimental/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://jacq-car.github.io/publication/carolan-2014-experimental/</guid>
+      <guid>https://jacquescarolan.github.io/jacq-car.github.io/publication/carolan-2014-experimental/</guid>
       <description></description>
     </item>
     

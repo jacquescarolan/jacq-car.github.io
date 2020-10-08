@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Jacques Carolan</title>
-    <link>https://jacq-car.github.io/post/</link>
-      <atom:link href="https://jacq-car.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jacquescarolan.github.io/jacq-car.github.io/post/</link>
+      <atom:link href="https://jacquescarolan.github.io/jacq-car.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2020</copyright>
     <image>
-      <url>https://jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jacquescarolan.github.io/jacq-car.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>https://jacq-car.github.io/post/</link>
+      <link>https://jacquescarolan.github.io/jacq-car.github.io/post/</link>
     </image>
     
   </channel>
