@@ -17,7 +17,7 @@
       <link>https://jacquescarolan.github.io/project/photonics/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
       <guid>https://jacquescarolan.github.io/project/photonics/</guid>
-      <description>&lt;p&gt;I develop large-scale photonic integrated circuits that can be reprogrammed to implement a host of optical transformations, all on a single device.  Such universal &lt;em&gt;programable photonics&lt;/em&gt; may enable breakthroughs in quantum computing, artificial intelligence, imaging and signals processing.&lt;/p&gt;
+      <description>&lt;p&gt;Universal optical processors are photonic devices that can be reprogrammed to implement a variety of transformations, all on a single chip.  Such &lt;em&gt;programable photonics&lt;/em&gt; may enable breakthroughs in quantum computing, artificial intelligence, imaging and signals processing.  I&amp;rsquo;ve been developing these systems in a host of material platforms, alongside developing novel packaging, control and characterization techniques.&lt;/p&gt;
 &lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;
 
 
@@ -27,23 +27,37 @@
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34; itemscope itemtype=&#34;http://schema.org/ScholarlyArticle&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/carolan-2015-universal/&#34; itemprop=&#34;url&#34;&gt;&lt;span itemprop=&#34;name&#34;&gt;Universal linear optics&lt;/span&gt;&lt;/a&gt;
 
   
-  
 
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  
+  &lt;div class=&#34;article-metadata&#34; itemprop=&#34;author&#34;&gt;
     
 
   
-  &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;C. Harrold&lt;/span&gt;, &lt;span &gt;C. Sparrow&lt;/span&gt;, &lt;span &gt;E. Martı́n-López&lt;/span&gt;, &lt;span &gt;N. J. Russell&lt;/span&gt;, &lt;span &gt;J. W. Silverstone&lt;/span&gt;, &lt;span &gt;P. J. Shadbolt&lt;/span&gt;, &lt;span &gt;N. Matsuda&lt;/span&gt;, &lt;span &gt;M. Oguma&lt;/span&gt;, &lt;span &gt;M. Itoh&lt;/span&gt;, &lt;span &gt;G. D. Marshall&lt;/span&gt;, &lt;span &gt;M. G. Thompson&lt;/span&gt;, &lt;span &gt;J. C. F. Matthews&lt;/span&gt;, &lt;span &gt;T. Hashimoto&lt;/span&gt;, &lt;span &gt;J. L. O’Brien&lt;/span&gt;, &lt;span &gt;A. Laing&lt;/span&gt;
-  &lt;/span&gt;
-  (2015).
-  &lt;a href=&#34;https://jacquescarolan.github.io/publication/carolan-2015-universal/&#34;&gt;Universal linear optics&lt;/a&gt;.
-  &lt;em&gt;Science&lt;/em&gt; &lt;strong&gt;349&lt;/strong&gt;, 711 (2015).
+  &lt;span &gt;J. Carolan*&lt;/span&gt;, &lt;span &gt;C. Harrold&lt;/span&gt;, &lt;span &gt;C. Sparrow&lt;/span&gt;, &lt;span &gt;E. Martı́n-López&lt;/span&gt;, &lt;span &gt;N. J. Russell&lt;/span&gt;, &lt;span &gt;J. W. Silverstone&lt;/span&gt;, &lt;span &gt;P. J. Shadbolt&lt;/span&gt;, &lt;span &gt;N. Matsuda&lt;/span&gt;, &lt;span &gt;M. Oguma&lt;/span&gt;, &lt;span &gt;M. Itoh&lt;/span&gt;, &lt;span &gt;G. D. Marshall&lt;/span&gt;, &lt;span &gt;M. G. Thompson&lt;/span&gt;, &lt;span &gt;J. C. F. Matthews&lt;/span&gt;, &lt;span &gt;T. Hashimoto&lt;/span&gt;, &lt;span &gt;J. L. O’Brien&lt;/span&gt;, &lt;span &gt;A. Laing&lt;/span&gt;&lt;br&gt;&lt;em&gt;Science&lt;/em&gt; &lt;strong&gt;349&lt;/strong&gt;, 711 (2015)&lt;/div&gt;
   
-  &lt;p&gt;
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
 
 
 
@@ -110,10 +124,10 @@
     Web
   &lt;/a&gt;
 
-&lt;/p&gt;
 
+  &lt;/div&gt;
   
-  
+
 &lt;/div&gt;
 
   
@@ -127,23 +141,37 @@
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34; itemscope itemtype=&#34;http://schema.org/ScholarlyArticle&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/chakraborty-2020-cryogenic/&#34; itemprop=&#34;url&#34;&gt;&lt;span itemprop=&#34;name&#34;&gt;Cryogenic operation of silicon photonic modulators based on DC Kerr effect&lt;/span&gt;&lt;/a&gt;
 
   
-  
 
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  
+  &lt;div class=&#34;article-metadata&#34; itemprop=&#34;author&#34;&gt;
     
 
   
-  &lt;span &gt;U. Chakraborty&lt;/span&gt;, &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;G. Clark&lt;/span&gt;, &lt;span &gt;D. Bunandar&lt;/span&gt;, &lt;span &gt;J. Notaros&lt;/span&gt;, &lt;span &gt;M. R. Watts&lt;/span&gt;, &lt;span &gt;D. R. Englund&lt;/span&gt;
-  &lt;/span&gt;
-  (2020).
-  &lt;a href=&#34;https://jacquescarolan.github.io/publication/chakraborty-2020-cryogenic/&#34;&gt;Cryogenic operation of silicon photonic modulators based on DC Kerr effect&lt;/a&gt;.
-  &lt;em&gt;arXiv preprint arXiv:2007.03395&lt;/em&gt; (2020).
+  &lt;span &gt;U. Chakraborty&lt;/span&gt;, &lt;span &gt;J. Carolan*&lt;/span&gt;, &lt;span &gt;G. Clark&lt;/span&gt;, &lt;span &gt;D. Bunandar&lt;/span&gt;, &lt;span &gt;J. Notaros&lt;/span&gt;, &lt;span &gt;M. R. Watts&lt;/span&gt;, &lt;span &gt;D. R. Englund&lt;/span&gt;&lt;br&gt;&lt;em&gt;arXiv preprint arXiv:2007.03395&lt;/em&gt; (2020)&lt;/div&gt;
   
-  &lt;p&gt;
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
 
 
 
@@ -194,10 +222,10 @@
     arXiv
   &lt;/a&gt;
 
-&lt;/p&gt;
 
+  &lt;/div&gt;
   
-  
+
 &lt;/div&gt;
 
   
@@ -212,23 +240,37 @@
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34; itemscope itemtype=&#34;http://schema.org/ScholarlyArticle&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/harris-2018-linear/&#34; itemprop=&#34;url&#34;&gt;&lt;span itemprop=&#34;name&#34;&gt;Linear programmable nanophotonic processors&lt;/span&gt;&lt;/a&gt;
 
   
-  
 
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  
+  &lt;div class=&#34;article-metadata&#34; itemprop=&#34;author&#34;&gt;
     
 
   
-  &lt;span &gt;N. C. Harris&lt;/span&gt;, &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;D. Bunandar&lt;/span&gt;, &lt;span &gt;M. Prabhu&lt;/span&gt;, &lt;span &gt;M. Hochberg&lt;/span&gt;, &lt;span &gt;T. Baehr-Jones&lt;/span&gt;, &lt;span &gt;M. L. Fanto&lt;/span&gt;, &lt;span &gt;A. M. Smith&lt;/span&gt;, &lt;span &gt;C. C. Tison&lt;/span&gt;, &lt;span &gt;P. M. Alsing&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;
-  &lt;/span&gt;
-  (2018).
-  &lt;a href=&#34;https://jacquescarolan.github.io/publication/harris-2018-linear/&#34;&gt;Linear programmable nanophotonic processors&lt;/a&gt;.
-  &lt;em&gt;Optica&lt;/em&gt; &lt;strong&gt;5&lt;/strong&gt;, 1623 (2018).
+  &lt;span &gt;N. C. Harris&lt;/span&gt;, &lt;span &gt;J. Carolan*&lt;/span&gt;, &lt;span &gt;D. Bunandar&lt;/span&gt;, &lt;span &gt;M. Prabhu&lt;/span&gt;, &lt;span &gt;M. Hochberg&lt;/span&gt;, &lt;span &gt;T. Baehr-Jones&lt;/span&gt;, &lt;span &gt;M. L. Fanto&lt;/span&gt;, &lt;span &gt;A. M. Smith&lt;/span&gt;, &lt;span &gt;C. C. Tison&lt;/span&gt;, &lt;span &gt;P. M. Alsing&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;&lt;br&gt;&lt;em&gt;Optica&lt;/em&gt; &lt;strong&gt;5&lt;/strong&gt;, 1623 (2018)&lt;/div&gt;
   
-  &lt;p&gt;
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
 
 
 
@@ -281,110 +323,10 @@
     Web
   &lt;/a&gt;
 
-&lt;/p&gt;
 
-  
-  
-&lt;/div&gt;
-
+  &lt;/div&gt;
   
 
-
-
-
-
-
-
-
-
-  
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  
-  &lt;span &gt;J. Kim&lt;/span&gt;, &lt;span &gt;S. Aghaeimeibodi&lt;/span&gt;, &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;, &lt;span &gt;E. Waks&lt;/span&gt;
-  &lt;/span&gt;
-  (2020).
-  &lt;a href=&#34;https://jacquescarolan.github.io/publication/kim-2020-hybrid/&#34;&gt;Hybrid integration methods for on-chip quantum photonics&lt;/a&gt;.
-  &lt;em&gt;Optica&lt;/em&gt; &lt;strong&gt;7&lt;/strong&gt;, 291 (2020).
-  
-  &lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/publication/kim-2020-hybrid/kim-2020-hybrid.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-
-
-
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/kim-2020-hybrid/cite.bib&#34;&gt;
-  Cite
-&lt;/button&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-    
-  
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1911.12756&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-    &lt;i class=&#34;ai ai-arxiv mr-1&#34;&gt;&lt;/i&gt;
-    arXiv
-  &lt;/a&gt;
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.osapublishing.org/optica/abstract.cfm?uri=optica-7-4-291&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-    
-    Web
-  &lt;/a&gt;
-
-&lt;/p&gt;
-
-  
-  
 &lt;/div&gt;
 
   
@@ -408,23 +350,37 @@
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34; itemscope itemtype=&#34;http://schema.org/ScholarlyArticle&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/carolan-2020-variational/&#34; itemprop=&#34;url&#34;&gt;&lt;span itemprop=&#34;name&#34;&gt;Variational quantum unsampling on a quantum photonic processor&lt;/span&gt;&lt;/a&gt;
 
   
-  
 
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  
+  &lt;div class=&#34;article-metadata&#34; itemprop=&#34;author&#34;&gt;
     
 
   
-  &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;M. Mohseni&lt;/span&gt;, &lt;span &gt;J. P. Olson&lt;/span&gt;, &lt;span &gt;M. Prabhu&lt;/span&gt;, &lt;span &gt;C. Chen&lt;/span&gt;, &lt;span &gt;D. Bunandar&lt;/span&gt;, &lt;span &gt;M. Y. Niu&lt;/span&gt;, &lt;span &gt;N. C. Harris&lt;/span&gt;, &lt;span &gt;F. N. C. Wong&lt;/span&gt;, &lt;span &gt;M. Hochberg&lt;/span&gt;, &lt;span &gt;S. Lloyd&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;
-  &lt;/span&gt;
-  (2020).
-  &lt;a href=&#34;https://jacquescarolan.github.io/publication/carolan-2020-variational/&#34;&gt;Variational quantum unsampling on a quantum photonic processor&lt;/a&gt;.
-  &lt;em&gt;Nature Physics&lt;/em&gt; &lt;strong&gt;16&lt;/strong&gt;, 322 (2020).
+  &lt;span &gt;J. Carolan*&lt;/span&gt;, &lt;span &gt;M. Mohseni&lt;/span&gt;, &lt;span &gt;J. P. Olson&lt;/span&gt;, &lt;span &gt;M. Prabhu&lt;/span&gt;, &lt;span &gt;C. Chen&lt;/span&gt;, &lt;span &gt;D. Bunandar&lt;/span&gt;, &lt;span &gt;M. Y. Niu&lt;/span&gt;, &lt;span &gt;N. C. Harris&lt;/span&gt;, &lt;span &gt;F. N. C. Wong&lt;/span&gt;, &lt;span &gt;M. Hochberg&lt;/span&gt;, &lt;span &gt;S. Lloyd&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;&lt;br&gt;&lt;em&gt;Nature Physics&lt;/em&gt; &lt;strong&gt;16&lt;/strong&gt;, 322 (2020)&lt;/div&gt;
   
-  &lt;p&gt;
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
 
 
 
@@ -491,10 +447,10 @@
     Web
   &lt;/a&gt;
 
-&lt;/p&gt;
 
+  &lt;/div&gt;
   
-  
+
 &lt;/div&gt;
 
   
@@ -508,23 +464,37 @@
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34; itemscope itemtype=&#34;http://schema.org/ScholarlyArticle&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/steinbrecher-2019-quantum/&#34; itemprop=&#34;url&#34;&gt;&lt;span itemprop=&#34;name&#34;&gt;Quantum optical neural networks&lt;/span&gt;&lt;/a&gt;
 
   
-  
 
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  
+  &lt;div class=&#34;article-metadata&#34; itemprop=&#34;author&#34;&gt;
     
 
   
-  &lt;span &gt;G. R. Steinbrecher&lt;/span&gt;, &lt;span &gt;J. P Olson&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;, &lt;span &gt;J. Carolan&lt;/span&gt;
-  &lt;/span&gt;
-  (2019).
-  &lt;a href=&#34;https://jacquescarolan.github.io/publication/steinbrecher-2019-quantum/&#34;&gt;Quantum optical neural networks&lt;/a&gt;.
-  &lt;em&gt;npj Quantum Information&lt;/em&gt; &lt;strong&gt;5&lt;/strong&gt;, 60 (2019).
+  &lt;span &gt;G. R. Steinbrecher&lt;/span&gt;, &lt;span &gt;J. P Olson&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;, &lt;span &gt;J. Carolan*&lt;/span&gt;&lt;br&gt;&lt;em&gt;npj Quantum Information&lt;/em&gt; &lt;strong&gt;5&lt;/strong&gt;, 60 (2019)&lt;/div&gt;
   
-  &lt;p&gt;
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
 
 
 
@@ -591,10 +561,10 @@
     Web
   &lt;/a&gt;
 
-&lt;/p&gt;
 
+  &lt;/div&gt;
   
-  
+
 &lt;/div&gt;
 
   
@@ -608,23 +578,37 @@
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34; itemscope itemtype=&#34;http://schema.org/ScholarlyArticle&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/prabhu-2020-accelerating/&#34; itemprop=&#34;url&#34;&gt;&lt;span itemprop=&#34;name&#34;&gt;Accelerating recurrent Ising machines in photonic integrated circuits&lt;/span&gt;&lt;/a&gt;
 
   
-  
 
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  
+  &lt;div class=&#34;article-metadata&#34; itemprop=&#34;author&#34;&gt;
     
 
   
-  &lt;span &gt;M. Prabhu&lt;/span&gt;, &lt;span &gt;C. Roques-Carmes&lt;/span&gt;, &lt;span &gt;Y. Shen&lt;/span&gt;, &lt;span &gt;N. Harris&lt;/span&gt;, &lt;span &gt;L. Jing&lt;/span&gt;, &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;R. Hamerly&lt;/span&gt;, &lt;span &gt;T. Baehr-Jones&lt;/span&gt;, &lt;span &gt;M. Hochberg&lt;/span&gt;, &lt;span &gt;V. Čeperić&lt;/span&gt;, &lt;span &gt;J. D. Joannopoulos&lt;/span&gt;, &lt;span &gt;D. R. Englund&lt;/span&gt;, &lt;span &gt;M. Soljačić&lt;/span&gt;
-  &lt;/span&gt;
-  (2020).
-  &lt;a href=&#34;https://jacquescarolan.github.io/publication/prabhu-2020-accelerating/&#34;&gt;Accelerating recurrent Ising machines in photonic integrated circuits&lt;/a&gt;.
-  &lt;em&gt;Optica&lt;/em&gt; &lt;strong&gt;7&lt;/strong&gt;, 551 (2020).
+  &lt;span &gt;M. Prabhu&lt;/span&gt;, &lt;span &gt;C. Roques-Carmes&lt;/span&gt;, &lt;span &gt;Y. Shen&lt;/span&gt;, &lt;span &gt;N. Harris&lt;/span&gt;, &lt;span &gt;L. Jing&lt;/span&gt;, &lt;span &gt;J. Carolan*&lt;/span&gt;, &lt;span &gt;R. Hamerly&lt;/span&gt;, &lt;span &gt;T. Baehr-Jones&lt;/span&gt;, &lt;span &gt;M. Hochberg&lt;/span&gt;, &lt;span &gt;V. Čeperić&lt;/span&gt;, &lt;span &gt;J. D. Joannopoulos&lt;/span&gt;, &lt;span &gt;D. R. Englund&lt;/span&gt;, &lt;span &gt;M. Soljačić&lt;/span&gt;&lt;br&gt;&lt;em&gt;Optica&lt;/em&gt; &lt;strong&gt;7&lt;/strong&gt;, 551 (2020)&lt;/div&gt;
   
-  &lt;p&gt;
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
 
 
 
@@ -691,10 +675,10 @@
     Web
   &lt;/a&gt;
 
-&lt;/p&gt;
 
+  &lt;/div&gt;
   
-  
+
 &lt;/div&gt;
 
   
@@ -708,14 +692,8 @@
       <link>https://jacquescarolan.github.io/project/quantum-optics/</link>
       <pubDate>Tue, 29 Sep 2020 17:55:06 +0200</pubDate>
       <guid>https://jacquescarolan.github.io/project/quantum-optics/</guid>
-      <description>&lt;p&gt;Scalable methods to generate, manipulate and detect quantum states of light on chip may enable a new paradigm for computing.  I build such quantum technologies in a variety of material platforms, alongside developing a new suite of algorithms for machine learning, chemistry and secure communication.&lt;/p&gt;
-&lt;!--
-I have developing technologies through a variety of platforms:
-
-using quantum emitters
-
-
-Storing information on to the quantum states of light and processing that information using photonic integrated circuits, enables new opportunities for practical quantum processors to solve oustanding problems in quantum chemistry, inference and security. --&gt;
+      <description>&lt;p&gt;I develop large-scale quantum photonic processors in which information is encoded in quantum states of light and controlled on-chip via state-of-the-art photonic integrated circuits (PICs). In parallel, I&amp;rsquo;m developing a new suite of quantum protocols specifically designed for photonic hardware.&lt;/p&gt;
+&lt;p&gt;My methodology leverages a simultaneous bottom-up approach, by designing, fabricating and testing individual quantum devices; and a top-down approach by applying semiconductor foundry processes to develop large-scale photonic systems. This approach presents a path towards reliable quantum photonic technologies with millions of optical components and compatibility with CMOS electronics.&lt;/p&gt;
 &lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;
 
 
@@ -725,23 +703,37 @@ Storing information on to the quantum states of light and processing that inform
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34; itemscope itemtype=&#34;http://schema.org/ScholarlyArticle&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/carolan-2019-scalable/&#34; itemprop=&#34;url&#34;&gt;&lt;span itemprop=&#34;name&#34;&gt;Scalable feedback control of single photon sources for photonic quantum technologies&lt;/span&gt;&lt;/a&gt;
 
   
-  
 
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  
+  &lt;div class=&#34;article-metadata&#34; itemprop=&#34;author&#34;&gt;
     
 
   
-  &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;U. Chakraborty&lt;/span&gt;, &lt;span &gt;N. C. Harris&lt;/span&gt;, &lt;span &gt;M. Pant&lt;/span&gt;, &lt;span &gt;T. Baehr-Jones&lt;/span&gt;, &lt;span &gt;M. Hochberg&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;
-  &lt;/span&gt;
-  (2019).
-  &lt;a href=&#34;https://jacquescarolan.github.io/publication/carolan-2019-scalable/&#34;&gt;Scalable feedback control of single photon sources for photonic quantum technologies&lt;/a&gt;.
-  &lt;em&gt;Optica&lt;/em&gt; &lt;strong&gt;6&lt;/strong&gt;, 335 (2019).
+  &lt;span &gt;J. Carolan*&lt;/span&gt;, &lt;span &gt;U. Chakraborty&lt;/span&gt;, &lt;span &gt;N. C. Harris&lt;/span&gt;, &lt;span &gt;M. Pant&lt;/span&gt;, &lt;span &gt;T. Baehr-Jones&lt;/span&gt;, &lt;span &gt;M. Hochberg&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;&lt;br&gt;&lt;em&gt;Optica&lt;/em&gt; &lt;strong&gt;6&lt;/strong&gt;, 335 (2019)&lt;/div&gt;
   
-  &lt;p&gt;
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
 
 
 
@@ -808,10 +800,10 @@ Storing information on to the quantum states of light and processing that inform
     Web
   &lt;/a&gt;
 
-&lt;/p&gt;
 
+  &lt;/div&gt;
   
-  
+
 &lt;/div&gt;
 
   
@@ -825,23 +817,37 @@ Storing information on to the quantum states of light and processing that inform
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34; itemscope itemtype=&#34;http://schema.org/ScholarlyArticle&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/sparrow-2018-simulating/&#34; itemprop=&#34;url&#34;&gt;&lt;span itemprop=&#34;name&#34;&gt;Simulating the vibrational quantum dynamics of molecules using photonics&lt;/span&gt;&lt;/a&gt;
 
   
-  
 
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  
+  &lt;div class=&#34;article-metadata&#34; itemprop=&#34;author&#34;&gt;
     
 
   
-  &lt;span &gt;C. Sparrow&lt;/span&gt;, &lt;span &gt;E. Martı́n-López&lt;/span&gt;, &lt;span &gt;N. Maraviglia&lt;/span&gt;, &lt;span &gt;A. Neville&lt;/span&gt;, &lt;span &gt;C. Harrold&lt;/span&gt;, &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;Y. N Joglekar&lt;/span&gt;, &lt;span &gt;T. Hashimoto&lt;/span&gt;, &lt;span &gt;N. Matsuda&lt;/span&gt;, &lt;span &gt;J. L. O’Brien&lt;/span&gt;, &lt;span &gt;D. Tew&lt;/span&gt;, &lt;span &gt;A. Laing&lt;/span&gt;
-  &lt;/span&gt;
-  (2018).
-  &lt;a href=&#34;https://jacquescarolan.github.io/publication/sparrow-2018-simulating/&#34;&gt;Simulating the vibrational quantum dynamics of molecules using photonics&lt;/a&gt;.
-  &lt;em&gt;Nature&lt;/em&gt; &lt;strong&gt;557&lt;/strong&gt;, 660 (2018).
+  &lt;span &gt;C. Sparrow&lt;/span&gt;, &lt;span &gt;E. Martı́n-López&lt;/span&gt;, &lt;span &gt;N. Maraviglia&lt;/span&gt;, &lt;span &gt;A. Neville&lt;/span&gt;, &lt;span &gt;C. Harrold&lt;/span&gt;, &lt;span &gt;J. Carolan*&lt;/span&gt;, &lt;span &gt;Y. N Joglekar&lt;/span&gt;, &lt;span &gt;T. Hashimoto&lt;/span&gt;, &lt;span &gt;N. Matsuda&lt;/span&gt;, &lt;span &gt;J. L. O’Brien&lt;/span&gt;, &lt;span &gt;D. Tew&lt;/span&gt;, &lt;span &gt;A. Laing&lt;/span&gt;&lt;br&gt;&lt;em&gt;Nature&lt;/em&gt; &lt;strong&gt;557&lt;/strong&gt;, 660 (2018)&lt;/div&gt;
   
-  &lt;p&gt;
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
 
 
 
@@ -894,10 +900,10 @@ Storing information on to the quantum states of light and processing that inform
     Web
   &lt;/a&gt;
 
-&lt;/p&gt;
 
+  &lt;/div&gt;
   
-  
+
 &lt;/div&gt;
 
   
@@ -911,23 +917,37 @@ Storing information on to the quantum states of light and processing that inform
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+&lt;div class=&#34;view-list-item&#34; itemscope itemtype=&#34;http://schema.org/ScholarlyArticle&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/carolan-2014-experimental/&#34; itemprop=&#34;url&#34;&gt;&lt;span itemprop=&#34;name&#34;&gt;On the experimental verification of quantum complexity in linear optics&lt;/span&gt;&lt;/a&gt;
 
   
-  
 
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  
+  &lt;div class=&#34;article-metadata&#34; itemprop=&#34;author&#34;&gt;
     
 
   
-  &lt;span &gt;J. Carolan&lt;/span&gt;, &lt;span &gt;J. D. A. Meinecke&lt;/span&gt;, &lt;span &gt;P. J. Shadbolt&lt;/span&gt;, &lt;span &gt;N. J. Russell&lt;/span&gt;, &lt;span &gt;N. Ismail&lt;/span&gt;, &lt;span &gt;K. Wörhoff&lt;/span&gt;, &lt;span &gt;T. Rudolph&lt;/span&gt;, &lt;span &gt;M. G Thompson&lt;/span&gt;, &lt;span &gt;J. L. O&amp;#39;Brien&lt;/span&gt;, &lt;span &gt;J. C. F. Matthews&lt;/span&gt;, &lt;span &gt;A. Laing&lt;/span&gt;
-  &lt;/span&gt;
-  (2014).
-  &lt;a href=&#34;https://jacquescarolan.github.io/publication/carolan-2014-experimental/&#34;&gt;On the experimental verification of quantum complexity in linear optics&lt;/a&gt;.
-  &lt;em&gt;Nature Photonics&lt;/em&gt; &lt;strong&gt;8&lt;/strong&gt;, 621 (2014).
+  &lt;span &gt;J. Carolan*&lt;/span&gt;, &lt;span &gt;J. D. A. Meinecke&lt;/span&gt;, &lt;span &gt;P. J. Shadbolt&lt;/span&gt;, &lt;span &gt;N. J. Russell&lt;/span&gt;, &lt;span &gt;N. Ismail&lt;/span&gt;, &lt;span &gt;K. Wörhoff&lt;/span&gt;, &lt;span &gt;T. Rudolph&lt;/span&gt;, &lt;span &gt;M. G Thompson&lt;/span&gt;, &lt;span &gt;J. L. O&amp;#39;Brien&lt;/span&gt;, &lt;span &gt;J. C. F. Matthews&lt;/span&gt;, &lt;span &gt;A. Laing&lt;/span&gt;&lt;br&gt;&lt;em&gt;Nature Photonics&lt;/em&gt; &lt;strong&gt;8&lt;/strong&gt;, 621 (2014)&lt;/div&gt;
   
-  &lt;p&gt;
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
 
 
 
@@ -994,10 +1014,125 @@ Storing information on to the quantum states of light and processing that inform
     Web
   &lt;/a&gt;
 
-&lt;/p&gt;
+
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+  
+
+
+&lt;h2 id=&#34;reviews&#34;&gt;Reviews&lt;/h2&gt;
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+
 
   
   
+  
+
+
+&lt;div class=&#34;view-list-item&#34; itemscope itemtype=&#34;http://schema.org/ScholarlyArticle&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://jacquescarolan.github.io/publication/kim-2020-hybrid/&#34; itemprop=&#34;url&#34;&gt;&lt;span itemprop=&#34;name&#34;&gt;Hybrid integration methods for on-chip quantum photonics&lt;/span&gt;&lt;/a&gt;
+
+  
+
+  
+  &lt;div class=&#34;article-metadata&#34; itemprop=&#34;author&#34;&gt;
+    
+
+  
+  &lt;span &gt;J. Kim&lt;/span&gt;, &lt;span &gt;S. Aghaeimeibodi&lt;/span&gt;, &lt;span &gt;J. Carolan*&lt;/span&gt;, &lt;span &gt;D. Englund&lt;/span&gt;, &lt;span &gt;E. Waks&lt;/span&gt;&lt;br&gt;&lt;em&gt;Optica&lt;/em&gt; &lt;strong&gt;7&lt;/strong&gt;, 291 (2020)&lt;/div&gt;
+  
+
+  
+  &lt;div class=&#34;btn-links&#34;&gt;
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://jacquescarolan.github.io/publication/kim-2020-hybrid/kim-2020-hybrid.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/kim-2020-hybrid/cite.bib&#34;&gt;
+  Cite
+&lt;/button&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1911.12756&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    &lt;i class=&#34;ai ai-arxiv mr-1&#34;&gt;&lt;/i&gt;
+    arXiv
+  &lt;/a&gt;
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.osapublishing.org/optica/abstract.cfm?uri=optica-7-4-291&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    
+    Web
+  &lt;/a&gt;
+
+
+  &lt;/div&gt;
+  
+
 &lt;/div&gt;
 
   
