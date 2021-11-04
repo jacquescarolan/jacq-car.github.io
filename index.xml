@@ -5,12 +5,23 @@
     <link>https://jacquescarolan.github.io/</link>
       <atom:link href="https://jacquescarolan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jacques Carolan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2021</copyright><lastBuildDate>Tue, 29 Sep 2020 17:55:06 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jacques Carolan 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jacquescarolan.github.io/images/icon_hu4b27a53b3925d745521209dbd5222cb2_22873_512x512_fill_lanczos_center_2.png</url>
       <title>Jacques Carolan</title>
       <link>https://jacquescarolan.github.io/</link>
     </image>
+    
+    <item>
+      <title>All-Optical Interrogation of Neural Circuits</title>
+      <link>https://jacquescarolan.github.io/project/neuro/</link>
+      <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
+      <guid>https://jacquescarolan.github.io/project/neuro/</guid>
+      <description>&lt;p&gt;Understanding how patterns of electrical signals within the brain give rise to complex behavior, necessitates the ability to simultaneously record the activity of individual neurons and also manipulate the activity using optogenetic methods.
+I am developing novel 
+&lt;a href=&#34;https://www.jneurosci.org/content/35/41/13917&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;all-optical&lt;/a&gt; approaches for reading and writing neural activity at entirely new spatio-temporal scales, using a combination of high-speed holography, genetically encoded voltage indicators and optogenetics.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How to verify that quantum chips are computing correctly</title>
@@ -174,7 +185,7 @@
     
 
   
-  &lt;span &gt;U. Chakraborty&lt;/span&gt;, &lt;span &gt;J. Carolan*&lt;/span&gt;, &lt;span &gt;G. Clark&lt;/span&gt;, &lt;span &gt;D. Bunandar&lt;/span&gt;, &lt;span &gt;J. Notaros&lt;/span&gt;, &lt;span &gt;M. R. Watts&lt;/span&gt;, &lt;span &gt;D. R. Englund&lt;/span&gt;&lt;br&gt;&lt;em&gt;arXiv preprint arXiv:2007.03395&lt;/em&gt; (2020)&lt;/div&gt;
+  &lt;span &gt;U. Chakraborty&lt;/span&gt;, &lt;span &gt;J. Carolan*&lt;/span&gt;, &lt;span &gt;G. Clark&lt;/span&gt;, &lt;span &gt;D. Bunandar&lt;/span&gt;, &lt;span &gt;G. Glilbert&lt;/span&gt;, &lt;span &gt;J. Notaros&lt;/span&gt;, &lt;span &gt;M. R. Watts&lt;/span&gt;, &lt;span &gt;D. R. Englund&lt;/span&gt;&lt;br&gt;&lt;em&gt;Optica&lt;/em&gt; &lt;strong&gt;7&lt;/strong&gt;, 1385 (2020)&lt;/div&gt;
   
 
   
@@ -219,15 +230,17 @@
   
   
   
+    
+  
   
   
   
   
     
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/2007.03395&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-    &lt;i class=&#34;ai ai-arxiv mr-1&#34;&gt;&lt;/i&gt;
-    arXiv
+  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-7-10-1385&amp;amp;id=440931&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    
+    Web
   &lt;/a&gt;
 
 
@@ -1241,6 +1254,14 @@
       <link>https://jacquescarolan.github.io/press/qonn_mit_tech_review/</link>
       <pubDate>Mon, 28 Sep 2020 13:58:45 +0200</pubDate>
       <guid>https://jacquescarolan.github.io/press/qonn_mit_tech_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum-dot-based deterministic photon–emitter interfaces for scalable photonic quantum technology</title>
+      <link>https://jacquescarolan.github.io/publication/uppu-2021-quantumdot/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jacquescarolan.github.io/publication/uppu-2021-quantumdot/</guid>
       <description></description>
     </item>
     

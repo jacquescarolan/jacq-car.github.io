@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jacquescarolan.github.io/project/neuro/</loc>
+    <lastmod>2020-09-28T13:58:45+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jacquescarolan.github.io/press/vqu_mit/</loc>
     <lastmod>2020-09-28T13:58:45+02:00</lastmod>
   </url>
@@ -78,8 +83,73 @@
   </url>
   
   <url>
+    <loc>https://jacquescarolan.github.io/publication-type/2/</loc>
+    <lastmod>2020-09-30T17:57:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquescarolan.github.io/authors/</loc>
+    <lastmod>2020-09-30T17:57:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquescarolan.github.io/author/j.-carolan/</loc>
+    <lastmod>2020-09-30T17:57:35+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jacquescarolan.github.io/</loc>
     <lastmod>2020-09-30T17:57:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquescarolan.github.io/author/l.-midolo/</loc>
+    <lastmod>2020-09-30T17:57:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquescarolan.github.io/author/p.-lodahl/</loc>
+    <lastmod>2020-09-30T17:57:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquescarolan.github.io/publication_types/</loc>
+    <lastmod>2020-09-30T17:57:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquescarolan.github.io/publication/</loc>
+    <lastmod>2020-09-30T17:57:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquescarolan.github.io/tag/quantum-photonics/</loc>
+    <lastmod>2020-09-30T17:57:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquescarolan.github.io/publication/uppu-2021-quantumdot/</loc>
+    <lastmod>2020-09-30T17:57:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquescarolan.github.io/author/r.-uppu/</loc>
+    <lastmod>2020-09-30T17:57:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquescarolan.github.io/tag/reviews/</loc>
+    <lastmod>2020-09-30T17:57:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquescarolan.github.io/tags/</loc>
+    <lastmod>2020-09-30T17:57:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquescarolan.github.io/author/x.-zhou/</loc>
+    <lastmod>2020-09-30T17:57:34+02:00</lastmod>
   </url>
   
   <url>
@@ -103,17 +173,7 @@
   </url>
   
   <url>
-    <loc>https://jacquescarolan.github.io/authors/</loc>
-    <lastmod>2020-09-30T17:57:35+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jacquescarolan.github.io/author/d.-r.-englund/</loc>
-    <lastmod>2020-09-30T17:57:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacquescarolan.github.io/author/j.-carolan/</loc>
     <lastmod>2020-09-30T17:57:35+02:00</lastmod>
   </url>
   
@@ -133,32 +193,12 @@
   </url>
   
   <url>
-    <loc>https://jacquescarolan.github.io/publication_types/</loc>
-    <lastmod>2020-09-30T17:57:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacquescarolan.github.io/publication/</loc>
-    <lastmod>2020-09-30T17:57:35+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jacquescarolan.github.io/publication/carolan-2020-scalable/</loc>
     <lastmod>2020-09-30T17:57:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jacquescarolan.github.io/tags/</loc>
-    <lastmod>2020-09-30T17:57:35+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jacquescarolan.github.io/author/u.-chakraborty/</loc>
-    <lastmod>2020-09-30T17:57:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacquescarolan.github.io/publication-type/2/</loc>
     <lastmod>2020-09-30T17:57:35+02:00</lastmod>
   </url>
   
@@ -204,6 +244,11 @@
   
   <url>
     <loc>https://jacquescarolan.github.io/author/g.-clark/</loc>
+    <lastmod>2020-09-30T17:57:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacquescarolan.github.io/author/g.-glilbert/</loc>
     <lastmod>2020-09-30T17:57:35+02:00</lastmod>
   </url>
   
@@ -283,18 +328,8 @@
   </url>
   
   <url>
-    <loc>https://jacquescarolan.github.io/tag/quantum-photonics/</loc>
-    <lastmod>2020-09-30T17:57:34+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jacquescarolan.github.io/author/r.-hamerly/</loc>
     <lastmod>2020-09-30T17:57:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jacquescarolan.github.io/tag/reviews/</loc>
-    <lastmod>2020-09-30T17:57:34+02:00</lastmod>
   </url>
   
   <url>
